@@ -1,0 +1,21 @@
+{
+  "video": "videos/example.mp4",
+  "turns": [
+    {
+      "visible_end": 67.0,
+      "query": "What are the characteristics of the appearance of this musical instrument?"
+    },
+    {
+      "visible_end": 107.0,
+      "query": "Why can this instrument be precisely tuned?"
+    },
+    {
+      "visible_end": 165.0,
+      "query": "What color is the clothing he is wearing?"
+    },
+    {
+      "visible_end": 173.0,
+      "query": "What product is being showcased in this video?"
+    }
+  ]
+}

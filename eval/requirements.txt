@@ -1,0 +1,5 @@
+pandas>=2.0.0
+pyarrow>=14.0.0
+tqdm>=4.66.0
+av>=13.1.0
+qwen-vl-utils[decord]==0.0.10

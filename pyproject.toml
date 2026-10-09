@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "querystream-plus"
+version = "0.1.0"
+description = "Efficient streaming video understanding with query-aware routing and complementary token memory"
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+include = ["querystream_plus*"]
